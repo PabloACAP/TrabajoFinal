@@ -62,8 +62,6 @@ Algoritmo indicadoresFinancierosRsiFIbonacci
 				
 				Mostrar "Activo: ", ticket;
 				Mostrar "El valor del RSI es ", valorRsi;
-				Mostrar "Subida Media ", subidaMedia;
-				Mostrar "Bajada Media ", bajadaMedia;
 				
 				Si valorRsi >= 70 Entonces //realiza la recomendación según el rsi calculado
 					Escribir "VENTA";
